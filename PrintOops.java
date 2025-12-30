@@ -7,7 +7,7 @@
  * @author Lynda
  * @version 1.0
  */
-class PrintOops {
+class PrintOops  {
 
     /**
      * Main method – entry point of the Java application.
